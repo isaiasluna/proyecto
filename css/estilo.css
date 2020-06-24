@@ -1,5 +1,5 @@
 body{
-    color: rgb(32, 15, 105);
+    color: white;
     text-align: center;
     font-family: "arial"l;
     margin: 0;
@@ -9,10 +9,11 @@ body{
 }
 #container
 {
+    background-color: black;
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 1px solid #DDD;
+    border: 1px solid black;
     margin: 0 auto;
     
 }
