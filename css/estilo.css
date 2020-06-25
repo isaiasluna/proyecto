@@ -9,7 +9,7 @@ body{
 }
 #cabecera{
 
-    background: #C0392B url("imagenes/deportivo.png");
+    background: #2d2bc0 url("imagenes/deportivo.png");
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0,5);
     color: black;
 }
